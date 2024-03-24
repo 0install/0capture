@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DescriptionCapture" xml:space="preserve">
+    <value>Καταγράφει στιγμιότυπα της κατάστασης του συστήματος και τα συγκρίνει για τη δημιουργία μιας τροφοδοσίας.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="FileAlreadyExists" xml:space="preserve">
+    <value>Το αρχείο '{0}' υπάρχει ήδη. Χρησιμοποιήστε το --force για να το αντικαταστήσετε.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="LicenseInfo" xml:space="preserve">
+    <value>Το πρόγραμμα έρχεται με ΑΠΟΛΥΤΩΣ ΚΑΜΙΑ ΕΓΓΥΗΣΗ, στο βαθμό που επιτρέπεται από το νόμο.
+Μπορείτε να αναδιανέμετε αντίγραφα του προγράμματος υπό τους όρους της GNU Lesser General Public License.</value>
+    <comment>Manually overriden.</comment>
+  </data>
+  <data name="MissingArguments" xml:space="preserve">
+    <value>Λείπουν επιχειρήματα. Δοκιμάστε {0}</value>
+    <comment>Manually overriden.</comment>
+  </data>
+  <data name="OptionCollectFiles" xml:space="preserve">
+    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μην δημιουργηθεί αρχείο ZIP.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionForce" xml:space="preserve">
+    <value>Αντικατάσταση υφιστάμενων αρχείων.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionHelp" xml:space="preserve">
+    <value>Εμφάνιση του ενσωματωμένου κειμένου βοήθειας.</value>
+    <comment>Manually overriden.</comment>
+  </data>
+  <data name="OptionInstallationDirectory" xml:space="preserve">
+    <value>Το {PATH} του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που πρόκειται να καταγραφεί. Αφήστε την επιλογή unset για αυτόματο εντοπισμό.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionMainExe" xml:space="preserve">
+    <value>Το σχετικό {PATH} με το κύριο EXE της εφαρμογής που πρόκειται να καταγραφεί. Αφήστε την επιλογή unset για αυτόματο εντοπισμό.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Επιλογές:</value>
+    <comment>Manually overriden.</comment>
+  </data>
+  <data name="OptionVersion" xml:space="preserve">
+    <value>Εμφάνιση πληροφοριών έκδοσης.</value>
+    <comment>Manually overriden.</comment>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Χρήση:</value>
+    <comment>Manually overriden.</comment>
+  </data>
+</root>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DescriptionCapture" xml:space="preserve">
+    <value>Snímá snímky stavu systému a porovnává je pro vytvoření kanálu.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="FileAlreadyExists" xml:space="preserve">
+    <value>Soubor '{0}' již existuje. Pro přepsání použijte --force.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="LicenseInfo" xml:space="preserve">
+    <value>Na tento program se v rozsahu povoleném zákonem nevztahuje ABSOLUTNĚ ŽÁDNÁ ZÁRUKA.
+Kopie tohoto programu můžete šířit za podmínek licence GNU Lesser General Public License.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="MissingArguments" xml:space="preserve">
+    <value>Chybějící argumenty. Zkuste {0}</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionCollectFiles" xml:space="preserve">
+    <value>Adresa {PATH} souboru ZIP, který se vytvoří z instalačního adresáře. Ponechte hodnotu nenastavenou, pokud nechcete vytvořit žádný archiv ZIP.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionForce" xml:space="preserve">
+    <value>Přepis stávajících souborů.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionHelp" xml:space="preserve">
+    <value>Zobrazení vestavěného textu nápovědy.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionInstallationDirectory" xml:space="preserve">
+    <value>Adresa {PATH} adresáře, ve kterém je nainstalována aplikace, která má být zachycena. Pro automatickou detekci ponechte hodnotu nenastavenou.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionMainExe" xml:space="preserve">
+    <value>Relativní {PATH} k hlavnímu EXE aplikace, která má být zachycena. Pro automatickou detekci ponechte hodnotu nenastavenou.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Možnosti:</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionVersion" xml:space="preserve">
+    <value>Zobrazení informací o verzi.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Použití:</value>
+    <comment>Automatically translated.</comment>
+  </data>
+</root>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DescriptionCapture" xml:space="preserve">
+    <value>捕捉系统状态快照并进行比较，生成反馈。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="FileAlreadyExists" xml:space="preserve">
+    <value>文件{0} 已经存在。使用 --force 进行覆盖。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="LicenseInfo" xml:space="preserve">
+    <value>在法律允许的范围内，本程序不提供任何担保。
+您可以根据 GNU 宽通用公共许可证的条款重新发布本程序的副本。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="MissingArguments" xml:space="preserve">
+    <value>缺少参数。尝试{0}</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionCollectFiles" xml:space="preserve">
+    <value>从安装目录创建 ZIP 文件的{PATH} 。不设置则不创建 ZIP 压缩文件。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionForce" xml:space="preserve">
+    <value>覆盖现有文件</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionHelp" xml:space="preserve">
+    <value>显示内置帮助文本</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionInstallationDirectory" xml:space="preserve">
+    <value>要捕获的应用程序安装目录的{PATH} 。不设置则自动检测。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionMainExe" xml:space="preserve">
+    <value>要捕获的应用程序主 EXE 的相对{PATH} 。不设置则自动检测。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>选项</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionVersion" xml:space="preserve">
+    <value>显示版本信息。</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>使用方法</value>
+    <comment>Automatically translated.</comment>
+  </data>
+</root>

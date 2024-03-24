@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DescriptionCapture" xml:space="preserve">
+    <value>Captează instantanee ale stării sistemului și le compară pentru a genera un feed.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="FileAlreadyExists" xml:space="preserve">
+    <value>Fișierul '{0}' există deja. Folosiți --force pentru a suprascrie.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="LicenseInfo" xml:space="preserve">
+    <value>Acest program vine cu ABSOLUT NICI O GARANȚIE, în măsura permisă de lege.
+Puteți redistribui copii ale acestui program în conformitate cu termenii licenței GNU Lesser General Public License.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="MissingArguments" xml:space="preserve">
+    <value>Argumente lipsă. Încercați {0}</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionCollectFiles" xml:space="preserve">
+    <value>Adresa {PATH} a fișierului ZIP care trebuie creat din directorul de instalare. Lăsați unset pentru a nu crea nicio arhivă ZIP.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionForce" xml:space="preserve">
+    <value>Suprascrie fișierele existente.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionHelp" xml:space="preserve">
+    <value>Afișarea textului de ajutor încorporat.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionInstallationDirectory" xml:space="preserve">
+    <value>{PATH} al directorului în care este instalată aplicația care urmează să fie capturată. Se lasă nedefinit pentru detectarea automată.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionMainExe" xml:space="preserve">
+    <value>Relativ {PATH} la EXE-ul principal al aplicației care urmează să fie capturată. Se lasă nedefinit pentru detectarea automată.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Options" xml:space="preserve">
+    <value>Opțiuni:</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="OptionVersion" xml:space="preserve">
+    <value>Afișarea informațiilor despre versiune.</value>
+    <comment>Automatically translated.</comment>
+  </data>
+  <data name="Usage" xml:space="preserve">
+    <value>Utilizare:</value>
+    <comment>Automatically translated.</comment>
+  </data>
+</root>
