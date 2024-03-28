@@ -59,15 +59,15 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Sistem durumunun anlık görüntülerini yakalar ve bir besleme oluşturmak için bunları karşılaştırır.</value>
-    <comment>Automatically translated.</comment>
+    <value>Sistem durumunun anlık görüntülerini alır ve bunları bir özet akışı oluşturmak için karşılaştırır.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>'{0}' dosyası zaten mevcut. Üzerine yazmak için --force kullanın.</value>
-    <comment>Automatically translated.</comment>
+    <value>'{0}' dosyası zaten var. Üzerine yazılması için --force kullanın.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Bu yazılım, yasaların izin verdiği ölçüde KESİNLİKLE HERHANGİ BİR GARANTİ OLMADAN sunulur.
+    <value>Bu yazılım yasaların izin verdiği ölçüde KESİNLİKLE HERHANGİ BİR GARANTİ OLMADAN sunulur.
 Bu yazılımın kopyaları GNU Kısıtlı Genel Kamu Lisansı koşullarına bağlı kalınarak dağıtılabilir.</value>
     <comment>Manually overriden.</comment>
   </data>
@@ -76,24 +76,24 @@ Bu yazılımın kopyaları GNU Kısıtlı Genel Kamu Lisansı koşullarına bağ
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Kurulum dizininden oluşturulacak ZIP dosyasının {PATH} adresi. ZIP arşivi oluşturmamak için ayarsız bırakın.</value>
-    <comment>Automatically translated.</comment>
+    <value>Kurulum klasöründen oluşturulacak ZIP dosyası {PATH}. ZIP arşivi oluşturulmaması için ayarlanmamış olarak bırakın.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Mevcut dosyaların üzerine yaz.</value>
-    <comment>Automatically translated.</comment>
+    <value>Var olan dosyaların üzerine yazılsın.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Yerleşik yardım metnini görün.</value>
+    <value>Hazır yardım metnini görüntüler.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>Yakalanacak uygulamanın kurulu olduğu dizinin {PATH} adresi. Otomatik algılamak için ayarsız bırakın.</value>
-    <comment>Automatically translated.</comment>
+    <value>Yakalanacak uygulamanın kurulu olduğu klasör {PATH}. Otomatik olarak algılanması için ayarlamadan bırakın.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Yakalanacak uygulamanın ana EXE'sine göreceli {PATH}. Otomatik algılamak için ayarsız bırakın.</value>
-    <comment>Automatically translated.</comment>
+    <value>Yakalanacak uygulamanın ana EXE dosyası {PATH}. Otomatik olarak algılanması için ayarlamadan bırakın.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Seçenekler:</value>
