@@ -63,7 +63,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>ファイル '{0}' はすでに存在します。上書きするには --force を使用してください。</value>
+    <value>ファイル '{0}' は既に存在します。上書きするには --force を使用してください。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">

@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μη δημιουργηθεί αρχείο ZIP.</value>
+    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μην δημιουργηθεί αρχείο ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
