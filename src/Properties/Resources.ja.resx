@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>システム状態のスナップショットをキャプチャし、それらを比較してフィードを生成します。</value>
+    <value>システム状態のスナップショットを取得し、それらを比較してフィードを生成する。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
@@ -72,27 +72,27 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>引数がありません。試す{0}</value>
+    <value>引数が足りない。試す{0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>インストールディレクトリから作成するZIPファイルの{PATH} 。ZIPアーカイブを作成しない場合は未設定のままにします。</value>
+    <value>インストール・ディレクトリから作成する ZIP ファイルの{PATH} を指定します。ZIPアーカイブを作成しない場合は、未設定のままにします。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>既存のファイルを上書きします。</value>
+    <value>既存のファイルを上書きする。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>組み込みのヘルプテキストを表示します。</value>
+    <value>組み込みのヘルプテキストを表示する。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>キャプチャするアプリケーションがインストールされているディレクトリの{PATH} 。自動検出する場合は未設定のままにしてください。</value>
+    <value>キャプチャするアプリケーションがインストールされているディレクトリの{PATH} を指定します。自動検出する場合は未設定のままにします。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>キャプチャするアプリケーションのメインEXEへの相対{PATH} 。自動検出する場合は未設定のままにしてください。</value>
+    <value>キャプチャするアプリケーションのメイン EXE への相対{PATH} を指定します。自動検出する場合は未設定のままにする。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -100,11 +100,11 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>バージョン情報を表示します。</value>
+    <value>バージョン情報を表示する。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
-    <value>使い方：</value>
+    <value>使用法：</value>
     <comment>Automatically translated.</comment>
   </data>
 </root>
