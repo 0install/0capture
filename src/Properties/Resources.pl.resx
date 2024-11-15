@@ -80,7 +80,7 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Nadpisywanie istniejących plików.</value>
+    <value>Nadpisuje istniejące pliki.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
@@ -88,11 +88,11 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} katalogu, w którym zainstalowana jest aplikacja do przechwycenia. Pozostaw bez ustawienia, aby automatycznie wykryć.</value>
+    <value>{PATH} katalogu, w którym zainstalowana jest aplikacja, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Względny adres {PATH} do głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nie ustawione do automatycznego wykrywania.</value>
+    <value>Względny adres {PATH} do głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -100,11 +100,11 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Wyświetlanie informacji o wersji.</value>
+    <value>Wyświetla informacje o wersji.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
-    <value>Użycie:</value>
+    <value>Zastosowanie:</value>
     <comment>Automatically translated.</comment>
   </data>
 </root>

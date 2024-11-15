@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Захватывает снимки состояния системы и сравнивает их для создания отчета.</value>
+    <value>Захватывает снимки состояния системы и сравнивает их, чтобы сгенерировать поток.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
@@ -67,7 +67,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Эта программа поставляется с АБСОЛЮТНО НЕОБХОДИМОЙ ГАРАНТИЕЙ, в пределах, разрешенных законом.
+    <value>Эта программа поставляется с АБСОЛЮТНОЙ НЕ ГАРАНТИЕЙ, в пределах, разрешенных законом.
 Вы можете распространять копии этой программы в соответствии с условиями GNU Lesser General Public License.</value>
     <comment>Automatically translated.</comment>
   </data>
@@ -88,15 +88,15 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} директории, в которой установлено захватываемое приложение. Оставьте значение без изменений для автоматического определения.</value>
+    <value>{PATH} директории, в которой установлено перехватываемое приложение. Оставьте значение без изменения для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Относительный {PATH} к основному EXE приложения, которое будет захвачено. Оставьте значение без изменений для автоматического определения.</value>
+    <value>Относительный {PATH} к главному EXE приложения, которое нужно захватить. Оставьте значение без изменений для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
-    <value>Опции:</value>
+    <value>Параметры:</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">

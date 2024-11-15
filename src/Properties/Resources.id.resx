@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Menangkap snapshot status sistem dan membandingkannya untuk menghasilkan feed.</value>
+    <value>Menangkap snapshot status sistem dan membandingkannya untuk menghasilkan umpan.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
@@ -68,7 +68,7 @@
   </data>
   <data name="LicenseInfo" xml:space="preserve">
     <value>Program ini hadir tanpa jaminan sama sekali, sejauh diizinkan oleh hukum.
-Anda dapat menyebarluaskan salinan program ini di bawah ketentuan Lisensi Publik Umum GNU Lesser.</value>
+Anda dapat menyebarluaskan salinan program ini di bawah persyaratan Lisensi Publik Umum GNU.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
@@ -88,11 +88,11 @@ Anda dapat menyebarluaskan salinan program ini di bawah ketentuan Lisensi Publik
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} direktori tempat aplikasi yang akan diambil gambarnya diinstal. Biarkan tidak diatur untuk mendeteksi secara otomatis.</value>
+    <value>{PATH} direktori tempat aplikasi yang akan ditangkap diinstal. Biarkan tidak disetel untuk mendeteksi secara otomatis.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Relatif {PATH} ke EXE utama aplikasi yang akan ditangkap. Biarkan tidak disetel untuk mendeteksi otomatis.</value>
+    <value>Relatif {PATH} ke EXE utama aplikasi yang akan ditangkap. Biarkan tidak disetel untuk mendeteksi secara otomatis.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
