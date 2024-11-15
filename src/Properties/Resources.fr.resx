@@ -80,7 +80,7 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Ecraser les fichiers existants.</value>
+    <value>Écraser les fichiers existants.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
@@ -92,7 +92,7 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} relatif à l'EXE principal de l'application à capturer. Ne pas définir pour une détection automatique.</value>
+    <value>{PATH} relatif à l'EXE principal de l'application à capturer. Laisser non défini pour une détection automatique.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

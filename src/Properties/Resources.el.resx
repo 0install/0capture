@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μην δημιουργηθεί αρχείο ZIP.</value>
+    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μην δημιουργήσετε αρχείο ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,7 +88,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>Το {PATH} του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που πρόκειται να καταγραφεί. Αφήστε την επιλογή unset για αυτόματο εντοπισμό.</value>
+    <value>Το {PATH} του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που πρόκειται να συλληφθεί. Αφήστε το unset για αυτόματο εντοπισμό.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">

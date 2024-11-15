@@ -80,11 +80,11 @@ Puteți redistribui copii ale acestui program în conformitate cu termenii GNU L
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Suprascrieți fișierele existente.</value>
+    <value>Suprascrie fișierele existente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Afișați textul de ajutor încorporat.</value>
+    <value>Afișează textul de ajutor încorporat.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
@@ -92,7 +92,7 @@ Puteți redistribui copii ale acestui program în conformitate cu termenii GNU L
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} relativ la EXE-ul principal al aplicației care urmează să fie capturată. Nu se setează pentru detectarea automată.</value>
+    <value>{PATH} relativ la EXE-ul principal al aplicației care urmează să fie capturată. Lăsați nestabilit pentru detectarea automată.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -100,7 +100,7 @@ Puteți redistribui copii ale acestui program în conformitate cu termenii GNU L
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Afișarea informațiilor despre versiune.</value>
+    <value>Afișează informații despre versiune.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">

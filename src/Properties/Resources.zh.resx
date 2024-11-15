@@ -76,7 +76,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>从安装目录创建 ZIP 文件的{PATH} 。不设置则不创建 ZIP 压缩文件。</value>
+    <value>要从安装目录创建的 ZIP 文件的{PATH} 。不设置则不创建 ZIP 压缩包。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -84,7 +84,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>显示内置帮助文本</value>
+    <value>显示内置帮助文本。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">

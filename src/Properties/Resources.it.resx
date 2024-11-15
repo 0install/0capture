@@ -80,7 +80,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Sovrascrittura dei file esistenti.</value>
+    <value>Sovrascrive i file esistenti.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>L'indirizzo {PATH} relativo all'EXE principale dell'applicazione da catturare. Lasciare non impostato per rilevare automaticamente.</value>
+    <value>Il relativo {PATH} all'EXE principale dell'applicazione da catturare. Lasciare non impostato per rilevare automaticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -100,7 +100,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Visualizzazione delle informazioni sulla versione.</value>
+    <value>Visualizza le informazioni sulla versione.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">

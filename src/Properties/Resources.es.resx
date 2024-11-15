@@ -63,7 +63,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>El fichero '{0}' ya existe. Utilice --force para sobrescribirlo.</value>
+    <value>El archivo '{0}' ya existe. Utilice --force para sobrescribirlo.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,23 +76,23 @@ Puede redistribuir copias de este programa bajo los términos de la Licencia Pú
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>El {PATH} del archivo ZIP a crear desde el directorio de instalación. Dejar sin configurar para no crear ningún archivo ZIP.</value>
+    <value>{PATH} del archivo ZIP que se creará a partir del directorio de instalación. Si no se define, no se creará ningún archivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Sobrescribir archivos existentes.</value>
+    <value>Sobrescribe archivos existentes.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Mostrar el texto de ayuda incorporado.</value>
+    <value>Muestra el texto de ayuda integrado.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} del directorio en el que está instalada la aplicación que se va a capturar. Dejar sin configurar para autodetectar.</value>
+    <value>{PATH} del directorio en el que está instalada la aplicación que se va a capturar. Si no se establece, se detecta automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>El relativo {PATH} al EXE principal de la aplicación a capturar. Dejar sin ajustar para autodetectar.</value>
+    <value>La dirección {PATH} relativa al EXE principal de la aplicación que se va a capturar. Dejar sin definir para autodetectar.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
