@@ -67,7 +67,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Ten program nie jest objęty ABSOLUTNIE ŻADNĄ GWARANCJĄ w zakresie dozwolonym przez prawo.
+    <value>Ten program nie jest objęty ABSOLUTNIE ŻADNĄ GWARANCJĄ, w zakresie dozwolonym przez prawo.
 Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser General Public License.</value>
     <comment>Automatically translated.</comment>
   </data>
@@ -76,7 +76,7 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} pliku ZIP do utworzenia z katalogu instalacyjnego. Pozostaw bez ustawienia, aby nie tworzyć archiwum ZIP.</value>
+    <value>{PATH} pliku ZIP do utworzenia z katalogu instalacyjnego. Pozostaw nie ustawione, aby nie tworzyć archiwum ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
