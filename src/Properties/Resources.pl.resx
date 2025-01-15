@@ -92,7 +92,7 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Względny adres {PATH} do głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
+    <value>Względny adres {PATH} głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
