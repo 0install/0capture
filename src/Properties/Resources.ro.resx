@@ -92,7 +92,7 @@ Puteți redistribui copii ale acestui program în conformitate cu termenii GNU L
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} relativ la EXE-ul principal al aplicației care urmează să fie capturată. Lăsați nestabilit pentru detectarea automată.</value>
+    <value>Relativă {PATH} la EXE-ul principal al aplicației care urmează să fie capturată. Lăsați nestabilit pentru detectarea automată.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
