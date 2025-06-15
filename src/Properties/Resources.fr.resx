@@ -76,7 +76,7 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} du fichier ZIP à créer à partir du répertoire d'installation. Laissez cette valeur non définie pour ne pas créer d'archive ZIP.</value>
+    <value>{PATH} du fichier ZIP à créer à partir du répertoire d'installation. Laisser non défini pour ne pas créer d'archive ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
