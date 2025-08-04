@@ -1,6 +1,6 @@
 # 0capture
 
-[![Build](https://github.com/0install/0capture/workflows/Build/badge.svg)](https://github.com/0install/0capture/actions?query=workflow%3ABuild)  
+[![Build](https://github.com/0install/0capture/actions/workflows/build.yml/badge.svg)](https://github.com/0install/0capture/actions/workflows/build.yml)  
 0capture is a command-line tool for generating Zero Install feeds with metadata for [desktop integration](https://docs.0install.net/details/desktop-integration/). You can use it to capture the state of your system before installing an app and after. By comparing the two, 0capture can then infer which [capabilities](https://docs.0install.net/specifications/capabilities/) the app has and should be represented in its feed.
 
 **[Documentation and download instructions](https://docs.0install.net/tools/0publish-gui/)**
