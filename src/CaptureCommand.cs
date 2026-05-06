@@ -59,22 +59,7 @@ internal class CaptureCommand
             },
 
             {"f|force", () => Resources.OptionForce, _ => _force = true},
-            {
-                "installation-dir=", () => Resources.OptionInstallationDirectory, value =>
-                {
-                    try
-                    {
-                        _installationDirectory = Path.GetFullPath(value);
-                    }
-                    #region Error handling
-                    catch (Exception ex) when (ex is ArgumentException or NotSupportedException)
-                    {
-                        // Wrap exception since only certain exception types are allowed
-                        throw new OptionException(ex.Message, "installation-dir");
-                    }
-                    #endregion
-                }
-            },
+            {"installation-dir=", () => Resources.OptionInstallationDirectory, value => _installationDirectory = Paths.Absolute(value)},
             {"main-exe=", () => Resources.OptionMainExe, value => _mainExe = value},
             {"collect-files=", () => Resources.OptionCollectFiles, value => _zipFile = value}
         };
@@ -153,7 +138,7 @@ internal class CaptureCommand
         {
             HandleFileAlreadyExists(_zipFile);
 
-            var relativeUri = new Uri(Path.GetFullPath(feedFile)).MakeRelativeUri(new Uri(Path.GetFullPath(_zipFile!)));
+            var relativeUri = new Uri(Paths.Absolute(feedFile)).MakeRelativeUri(new Uri(Paths.Absolute(_zipFile!)));
             session.CollectFiles(_zipFile, relativeUri, _handler);
             Log.Warn("If you wish to upload this feed and ZIP archive, make sure to turn the <archive>'s relative href into an absolute one.");
         }
@@ -164,6 +149,6 @@ internal class CaptureCommand
     private void HandleFileAlreadyExists(string path)
     {
         if (File.Exists(path) && !_force)
-            throw new IOException(string.Format(Resources.FileAlreadyExists, Path.GetFullPath(path)));
+            throw new IOException(string.Format(Resources.FileAlreadyExists, Paths.Absolute(path)));
     }
 }
