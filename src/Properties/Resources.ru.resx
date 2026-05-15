@@ -67,9 +67,9 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Эта программа поставляется с АБСОЛЮТНО НЕОБХОДИМОЙ ГАРАНТИЕЙ, в пределах, разрешенных законом.
+    <value>Эта программа поставляется БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, в пределах, разрешённых законом.
 Вы можете распространять копии этой программы в соответствии с условиями GNU Lesser General Public License.</value>
-    <comment>Automatically translated.</comment>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
     <value>Недостающие аргументы. Попробуйте {0}</value>
@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Относительный {PATH} к главному EXE приложения, которое нужно захватить. Оставьте значение без изменений для автоматического определения.</value>
+    <value>Относительный {PATH} к главному EXE приложения, которое нужно захватить. Оставьте значение без изменения для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

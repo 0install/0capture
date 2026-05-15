@@ -72,8 +72,8 @@ Puteți redistribui copii ale acestui program în conformitate cu termenii GNU L
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Argumente lipsă. Încercare {0}</value>
-    <comment>Automatically translated.</comment>
+    <value>Argumente lipsă. Încercați {0}</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
     <value>{PATH} al fișierului ZIP care urmează să fie creat din directorul de instalare. Lăsați nestabilit pentru a nu crea nicio arhivă ZIP.</value>

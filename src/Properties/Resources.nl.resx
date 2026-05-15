@@ -69,11 +69,11 @@
   <data name="LicenseInfo" xml:space="preserve">
     <value>Dit programma wordt geleverd met ABSOLUUT GEEN GARANTIE, voor zover wettelijk is toegestaan.
 Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Lesser General Public License.</value>
-    <comment>Automatically translated.</comment>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
     <value>Ontbrekende argumenten. Probeer {0}</value>
-    <comment>Automatically translated.</comment>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
     <value>De {PATH} van het ZIP-bestand dat moet worden gemaakt vanuit de installatiemap. Laat unset om geen ZIP-archief aan te maken.</value>
@@ -84,8 +84,8 @@ Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Le
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>De ingebouwde helptekst weergeven.</value>
-    <comment>Automatically translated.</comment>
+    <value>Toont de ingebouwde helptekst.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
     <value>De {PATH} van de map waarin de vast te leggen applicatie is geïnstalleerd. Laat unset om automatisch te detecteren.</value>
@@ -97,14 +97,14 @@ Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Le
   </data>
   <data name="Options" xml:space="preserve">
     <value>Opties:</value>
-    <comment>Automatically translated.</comment>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Versie-informatie weergeven.</value>
-    <comment>Automatically translated.</comment>
+    <value>Geeft versie-informatie weer.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
     <value>Gebruik:</value>
-    <comment>Automatically translated.</comment>
+    <comment>Manually overriden.</comment>
   </data>
 </root>

@@ -72,7 +72,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Λείπουν επιχειρήματα. Δοκιμάστε {0}</value>
+    <value>Λείπουν ορίσματα. Δοκιμάστε {0}</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
