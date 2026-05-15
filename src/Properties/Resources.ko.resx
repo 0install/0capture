@@ -72,8 +72,8 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>인수가 누락되었습니다. 시도 {0}</value>
-    <comment>Automatically translated.</comment>
+    <value>인수가 누락되었습니다. {0}을(를) 시도해 보세요</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
     <value>설치 디렉토리에서 생성할 ZIP 파일의 {PATH}. 설정하지 않은 상태로 두면 ZIP 아카이브를 만들지 않습니다.</value>

@@ -76,8 +76,8 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} pliku ZIP do utworzenia z katalogu instalacyjnego. Pozostaw nie ustawione, aby nie tworzyć archiwum ZIP.</value>
-    <comment>Automatically translated.</comment>
+    <value>{PATH} pliku ZIP do utworzenia z katalogu instalacyjnego. Pozostaw nieustawione, aby nie tworzyć archiwum ZIP.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
     <value>Nadpisuje istniejące pliki.</value>
@@ -88,12 +88,12 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} katalogu, w którym zainstalowana jest aplikacja, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
-    <comment>Automatically translated.</comment>
+    <value>{PATH} katalogu, w którym zainstalowana jest aplikacja, która ma zostać przechwycona. Pozostaw nieustawione, aby automatycznie wykryć.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Względny adres {PATH} do głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nie ustawione, aby automatycznie wykryć.</value>
-    <comment>Automatically translated.</comment>
+    <value>Względny adres {PATH} do głównego pliku EXE aplikacji, która ma zostać przechwycona. Pozostaw nieustawione, aby automatycznie wykryć.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="Options" xml:space="preserve">
     <value>Opcje:</value>
@@ -104,7 +104,7 @@ Kopie tego programu można rozpowszechniać na warunkach licencji GNU Lesser Gen
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
-    <value>Zastosowanie:</value>
-    <comment>Automatically translated.</comment>
+    <value>Użycie:</value>
+    <comment>Manually overriden.</comment>
   </data>
 </root>

@@ -72,8 +72,8 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Arguments manquants. Essayer {0}</value>
-    <comment>Automatically translated.</comment>
+    <value>Arguments manquants. Essayez {0}</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
     <value>{PATH} du fichier ZIP à créer à partir du répertoire d'installation. Laisser non défini pour ne pas créer d'archive ZIP.</value>
@@ -84,7 +84,7 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Affiche le texte d'aide encastrée.</value>
+    <value>Affiche le texte d'aide encastré.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">

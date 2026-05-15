@@ -72,11 +72,11 @@ Bu yazılımın kopyaları GNU Kısıtlı Genel Kamu Lisansı koşullarına bağ
     <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Argümanlar eksik. {0} deneyin.</value>
+    <value>Değişkenler eksik. {0} deneyin.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Kurulum klasöründen oluşturulacak ZIP dosyasının {PATH} yolu. ZIP arşivi oluşturmamak için ayarlanmamış bırakın.</value>
+    <value>Kurulum klasöründen oluşturulacak ZIP dosyası {PATH}. ZIP arşivi oluşturulmaması için ayarlanmamış olarak bırakın.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@ Bu yazılımın kopyaları GNU Kısıtlı Genel Kamu Lisansı koşullarına bağ
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>Yakalanacak uygulamanın kurulu olduğu dizinin {PATH} yolu. Otomatik algılamak için ayarlanmamış bırakın.</value>
+    <value>Yakalanacak uygulamanın kurulu olduğu klasör {PATH}. Otomatik olarak algılanması için ayarlamadan bırakın.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Yakalanacak uygulamanın ana EXE dosyasına göreli {PATH} yolu. Otomatik algılamak için ayarlanmamış bırakın.</value>
+    <value>Yakalanacak uygulamanın ana EXE dosyası {PATH}. Otomatik olarak algılanması için ayarlamadan bırakın.</value>
     <comment>Manually overriden.</comment>
   </data>
   <data name="Options" xml:space="preserve">
