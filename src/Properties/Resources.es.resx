@@ -63,36 +63,36 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>El archivo '{0}' ya existe. Utilice --force para sobrescribirlo.</value>
+    <value>El archivo «{0} » ya existe. Utiliza --force para sobrescribirlo.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Este programa no incluye ABSOLUTAMENTE NINGUNA GARANTÍA, en la medida permitida por la ley.
-Puede redistribuir copias de este programa bajo los términos de la Licencia Pública General Reducida GNU.</value>
+    <value>Este programa se distribuye SIN NINGÚN TIPO DE GARANTÍA, en la medida en que lo permita la ley.
+Puedes redistribuir copias de este programa bajo los términos de la Licencia Pública General Reducida de GNU.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Faltan argumentos. Pruebe {0}</value>
+    <value>Faltan argumentos. Inténtalo {0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} del archivo ZIP que se creará a partir del directorio de instalación. Si no se define, no se creará ningún archivo ZIP.</value>
+    <value>{PATH} e del archivo ZIP que se va a crear a partir del directorio de instalación. Déjelo sin definir para no crear ningún archivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Sobrescribe archivos existentes.</value>
+    <value>Sobrescribir los archivos existentes.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Muestra el texto de ayuda integrado.</value>
+    <value>Mostrar el texto de ayuda integrado.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} del directorio en el que está instalada la aplicación que se va a capturar. Si no se establece, se detecta automáticamente.</value>
+    <value>La ruta de acceso ( {PATH} ) del directorio en el que está instalada la aplicación que se va a capturar. Déjela sin configurar para que se detecte automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>La dirección {PATH} relativa al EXE principal de la aplicación que se va a capturar. Dejar sin definir para autodetectar.</value>
+    <value>La ruta relativa {PATH} al archivo EXE principal de la aplicación que se va a capturar. Déjela sin configurar para que se detecte automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -100,11 +100,11 @@ Puede redistribuir copias de este programa bajo los términos de la Licencia Pú
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Muestra información sobre la versión.</value>
+    <value>Mostrar información sobre la versión.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
-    <value>Utilización:</value>
+    <value>Uso:</value>
     <comment>Automatically translated.</comment>
   </data>
 </root>

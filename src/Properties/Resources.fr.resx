@@ -63,7 +63,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Le fichier '{0}' existe déjà. Utilisez --force pour l'écraser.</value>
+    <value>Le fichier «{0} » existe déjà. Utilisez --force pour le remplacer.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,11 +76,11 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} du fichier ZIP à créer à partir du répertoire d'installation. Laisser non défini pour ne pas créer d'archive ZIP.</value>
+    <value>{PATH} e du fichier ZIP à créer à partir du répertoire d'installation. Ne rien indiquer pour ne pas créer d'archive ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Écraser les fichiers existants.</value>
+    <value>Remplacer les fichiers existants.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
@@ -88,11 +88,11 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} du répertoire dans lequel l'application à capturer est installée. Laisser non défini pour une détection automatique.</value>
+    <value>{PATH} e du répertoire dans lequel l'application à capturer est installée. Ne rien indiquer pour une détection automatique.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} relatif à l'EXE principal de l'application à capturer. Laisser non défini pour une détection automatique.</value>
+    <value>{PATH} relative par rapport à l'exécutable principal de l'application à capturer. Ne rien indiquer pour une détection automatique.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
