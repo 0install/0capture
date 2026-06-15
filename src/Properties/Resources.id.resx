@@ -59,11 +59,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Menangkap snapshot dari status sistem dan membandingkannya untuk menghasilkan umpan.</value>
+    <value>Mengambil tangkapan layar dari keadaan sistem dan membandingkannya untuk menghasilkan umpan.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>File '{0}' sudah ada. Gunakan --force untuk menimpa.</value>
+    <value>Berkas '{0}' sudah ada. Gunakan opsi --force untuk menimpa berkas tersebut.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,19 +76,19 @@ Anda dapat menyebarluaskan salinan program ini di bawah persyaratan GNU Lesser G
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} dari file ZIP yang akan dibuat dari direktori instalasi. Biarkan tidak diatur untuk tidak membuat arsip ZIP.</value>
+    <value>{PATH} asi berkas ZIP yang akan dibuat dari direktori instalasi. Biarkan kosong untuk tidak membuat arsip ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Menimpa file yang sudah ada.</value>
+    <value>Menimpa berkas yang sudah ada.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Menampilkan teks bantuan bawaan.</value>
+    <value>Tampilkan teks bantuan bawaan.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} direktori tempat aplikasi yang akan ditangkap diinstal. Biarkan tidak disetel untuk mendeteksi secara otomatis.</value>
+    <value>{PATH}, yaitu direktori tempat aplikasi yang akan ditangkap diinstal. Biarkan kosong untuk mendeteksi secara otomatis.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">

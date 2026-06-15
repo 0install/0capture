@@ -59,11 +59,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Καταγράφει στιγμιότυπα της κατάστασης του συστήματος και τα συγκρίνει για τη δημιουργία μιας τροφοδοσίας.</value>
+    <value>Λαμβάνει στιγμιότυπα της κατάστασης του συστήματος και τα συγκρίνει για να δημιουργήσει ένα feed.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Το αρχείο '{0}' υπάρχει ήδη. Χρησιμοποιήστε το --force για να το αντικαταστήσετε.</value>
+    <value>Το αρχείο «{0} » υπάρχει ήδη. Χρησιμοποιήστε την επιλογή --force για να το αντικαταστήσετε.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,11 +76,11 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Το {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το unset για να μην δημιουργήσετε αρχείο ZIP.</value>
+    <value>Η διαδρομή του αρχείου ZIP ( {PATH} ) που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το πεδίο κενό για να μην δημιουργηθεί αρχείο ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Αντικατάσταση υφιστάμενων αρχείων.</value>
+    <value>Αντικατάσταση υπαρχόντων αρχείων.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
@@ -88,11 +88,11 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>Το {PATH} του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που πρόκειται να συλληφθεί. Αφήστε το unset για αυτόματο εντοπισμό.</value>
+    <value>Η διαδρομή ( {PATH} ) του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που θα καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Το σχετικό {PATH} με το κύριο EXE της εφαρμογής που πρόκειται να καταγραφεί. Αφήστε την επιλογή unset για αυτόματο εντοπισμό.</value>
+    <value>Η σχετική διαδρομή {PATH} προς το κύριο αρχείο EXE της εφαρμογής που θα καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

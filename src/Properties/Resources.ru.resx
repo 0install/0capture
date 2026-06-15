@@ -59,11 +59,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Захватывает снимки состояния системы и сравнивает их, чтобы сгенерировать поток.</value>
+    <value>Создает моментальные снимки состояния системы и сравнивает их для формирования ленты.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Файл '{0}' уже существует. Используйте --force для перезаписи.</value>
+    <value>Файл «{0} » уже существует. Используйте опцию --force для перезаписи.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -72,27 +72,27 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Недостающие аргументы. Попробуйте {0}</value>
+    <value>Отсутствуют аргументы. Попробуйте {0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} ZIP-архив, который будет создан из каталога установки. Оставьте значение без изменения, чтобы не создавать ZIP-архив.</value>
+    <value>{PATH}, в который будет создан ZIP-файл из каталога установки. Оставьте значение unset, чтобы не создавать ZIP-архив.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
-    <value>Перезапись существующих файлов.</value>
+    <value>Перезаписать существующие файлы.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionHelp" xml:space="preserve">
-    <value>Показать текст встроенной справки.</value>
+    <value>Показать встроенную справку.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} директории, в которой установлено перехватываемое приложение. Оставьте значение без изменения для автоматического определения.</value>
+    <value>{PATH}, в котором установлено приложение, которое необходимо захватить. Оставьте не заданным для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Относительный {PATH} к главному EXE приложения, которое нужно захватить. Оставьте значение без изменения для автоматического определения.</value>
+    <value>Относительный путь {PATH} к основному EXE-файлу приложения, которое необходимо перехватить. Оставьте поле незаполненным для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
