@@ -88,11 +88,11 @@ Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Le
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>De {PATH} van de map waarin de vast te leggen applicatie is geïnstalleerd. Laat leeg om automatisch te detecteren.</value>
+    <value>De {PATH} van de map waarin de vast te leggen toepassing is geïnstalleerd. Laat deze instelling leeg om automatisch te detecteren.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Het relatieve pad {PATH} naar het hoofd-EXE-bestand van de applicatie die moet worden vastgelegd. Laat leeg om automatisch te detecteren.</value>
+    <value>Het relatieve pad {PATH} naar het hoofd-EXE-bestand van de toepassing die moet worden vastgelegd. Laat dit veld leeg om automatisch te detecteren.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

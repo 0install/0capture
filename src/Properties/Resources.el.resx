@@ -59,7 +59,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Λαμβάνει στιγμιότυπα της κατάστασης του συστήματος και τα συγκρίνει για να δημιουργήσει ένα feed.</value>
+    <value>Λαμβάνει στιγμιότυπα της κατάστασης του συστήματος και τα συγκρίνει για να δημιουργήσει μια ροή.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Η διαδρομή του αρχείου ZIP ( {PATH} ) που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το πεδίο κενό για να μην δημιουργηθεί αρχείο ZIP.</value>
+    <value>Η διαδρομή {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το πεδίο κενό για να μην δημιουργηθεί αρχείο ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,7 +88,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>Η διαδρομή ( {PATH} ) του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που θα καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
+    <value>Η διαδρομή {PATH} του καταλόγου στον οποίο είναι εγκατεστημένη η εφαρμογή που θα καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">

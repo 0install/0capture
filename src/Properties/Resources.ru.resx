@@ -76,7 +76,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH}, в который будет создан ZIP-файл из каталога установки. Оставьте значение unset, чтобы не создавать ZIP-архив.</value>
+    <value>{PATH}, из которого будет создан ZIP-файл, в каталоге установки. Оставьте значение не заданным, чтобы не создавать ZIP-архив.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -100,7 +100,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionVersion" xml:space="preserve">
-    <value>Отображение информации о версии.</value>
+    <value>Отобразить информацию о версии.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">

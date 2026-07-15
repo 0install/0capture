@@ -72,11 +72,11 @@ Puedes redistribuir copias de este programa bajo los términos de la Licencia P�
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Faltan argumentos. Inténtalo {0}</value>
+    <value>Faltan argumentos. Inténtalo de nuevo. {0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} e del archivo ZIP que se va a crear a partir del directorio de instalación. Déjelo sin definir para no crear ningún archivo ZIP.</value>
+    <value>La ruta {PATH} del archivo ZIP que se va a crear a partir del directorio de instalación. Déjalo sin definir para no crear ningún archivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@ Puedes redistribuir copias de este programa bajo los términos de la Licencia P�
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>La ruta de acceso ( {PATH} ) del directorio en el que está instalada la aplicación que se va a capturar. Déjela sin configurar para que se detecte automáticamente.</value>
+    <value>La ruta « {PATH} » del directorio en el que está instalada la aplicación que se va a capturar. Déjalo sin configurar para que se detecte automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>La ruta relativa {PATH} al archivo EXE principal de la aplicación que se va a capturar. Déjela sin configurar para que se detecte automáticamente.</value>
+    <value>La ruta relativa {PATH} al archivo EXE principal de la aplicación que se va a capturar. Déjalo sin especificar para que se detecte automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
