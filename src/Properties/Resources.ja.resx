@@ -68,7 +68,7 @@
   </data>
   <data name="LicenseInfo" xml:space="preserve">
     <value>本プログラムは、法律で認められる範囲において、一切の保証を伴いません。
-本プログラムの複製物は、GNU Lesser General Public License の条件に従って再配布することができます。</value>
+本プログラムの複製物は、GNU Lesser General Public Licenseの条件に従って再配布することができます。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>インストールディレクトリから作成するZIPファイルの{PATH} 。設定しない場合は、ZIPアーカイブを作成しません。</value>
+    <value>インストールディレクトリから作成するZIPファイルの{PATH} 。ZIPアーカイブを作成しない場合は、未設定のままにします。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>キャプチャ対象のアプリケーションがインストールされているディレクトリの{PATH} 。自動検出する場合は未設定のままにしてください。</value>
+    <value>キャプチャ対象のアプリケーションがインストールされているディレクトリの{PATH} 。自動検出する場合は設定しない。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>キャプチャ対象のアプリケーションのメインEXEに対する{PATH} の相対パス。設定しない場合は自動検出されます。</value>
+    <value>キャプチャ対象のアプリケーションのメインEXEに対する{PATH} の相対パス。自動検出する場合は未設定のままにしてください。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
@@ -104,7 +104,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="Usage" xml:space="preserve">
-    <value>使用方法:</value>
+    <value>使用方法：</value>
     <comment>Automatically translated.</comment>
   </data>
 </root>

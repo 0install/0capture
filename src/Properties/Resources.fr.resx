@@ -59,11 +59,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>Capture des instantanés de l'état du système et les compare pour générer un flux.</value>
+    <value>Il capture des instantanés de l'état du système et les compare pour générer un flux.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Le fichier «{0} » existe déjà. Utilisez --force pour le remplacer.</value>
+    <value>Le fichier «{0} » existe déjà. Utilisez l'option --force pour le remplacer.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -92,7 +92,7 @@ Vous pouvez redistribuer des copies de ce programme suivant les termes de la “
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} relative par rapport à l'exécutable principal de l'application à capturer. Ne rien indiquer pour une détection automatique.</value>
+    <value>{PATH} relative par rapport au fichier EXE principal de l'application à capturer. Ne rien indiquer pour une détection automatique.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

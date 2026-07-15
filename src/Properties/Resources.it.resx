@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} e relativo all'EXE principale dell'applicazione da acquisire. Lasciare non impostato per il rilevamento automatico.</value>
+    <value>{PATH} e relativo all'EXE principale dell'applicazione da acquisire. Lasciare vuoto per il rilevamento automatico.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

@@ -63,12 +63,12 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Soubor „{0} “ již existuje. Použijte --force pro přepsání.</value>
+    <value>Soubor „{0} “ již existuje. K přepsání použijte --force.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Tento program je dodáván BEZ JAKÉKOLIV ZÁRUKY, v rozsahu povoleném zákonem.
-Kopie tohoto programu můžete šířit v souladu s podmínkami GNU Lesser General Public License.</value>
+    <value>Tento program je poskytován BEZ JAKÉKOLIV ZÁRUKY, v rozsahu povoleném zákonem.
+Kopie tohoto programu můžete šířit v souladu s podmínkami licence GNU Lesser General Public License.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
@@ -76,7 +76,7 @@ Kopie tohoto programu můžete šířit v souladu s podmínkami GNU Lesser Gener
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} a souboru ZIP, který se má vytvořit z instalačního adresáře. Pokud není nastaveno, nevytvoří se žádný archiv ZIP.</value>
+    <value>{PATH} a souboru ZIP, který se má vytvořit z instalačního adresáře. Pokud není nastaveno, nebude vytvořen žádný archiv ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@ Kopie tohoto programu můžete šířit v souladu s podmínkami GNU Lesser Gener
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} a adresáře, ve kterém je nainstalována aplikace, která má být zachycena. Pokud není zadána, dojde k automatické detekci.</value>
+    <value>{PATH}, v němž je nainstalována aplikace, kterou chcete zachytit. Pokud tuto proměnnou nenastavíte, dojde k automatické detekci.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Relativní cesta {PATH} k hlavnímu souboru EXE aplikace, kterou chcete zachytit. Pokud necháte toto pole prázdné, dojde k automatické detekci.</value>
+    <value>Relativní {PATH} a k hlavnímu souboru EXE aplikace, která má být zachycena. Pokud necháte toto pole prázdné, dojde k automatické detekci.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
