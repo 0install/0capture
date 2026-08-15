@@ -68,7 +68,7 @@
   </data>
   <data name="LicenseInfo" xml:space="preserve">
     <value>本プログラムは、法律で認められる範囲において、一切の保証を伴いません。
-本プログラムの複製物は、GNU Lesser General Public Licenseの条件に従って再配布することができます。</value>
+本プログラムの複製物は、GNU Lesser General Public License の条件に従って再配布することができます。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>キャプチャ対象のアプリケーションのメインEXEに対する{PATH} の相対パス。自動検出する場合は未設定のままにしてください。</value>
+    <value>キャプチャ対象のアプリケーションのメインEXEに対する相対パス{PATH} 。自動検出する場合は未設定のままにしてください。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

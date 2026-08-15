@@ -72,7 +72,7 @@ Puedes redistribuir copias de este programa bajo los términos de la Licencia P�
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Faltan argumentos. Inténtalo de nuevo. {0}</value>
+    <value>Faltan argumentos. Inténtalo de nuevo {0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
@@ -88,7 +88,7 @@ Puedes redistribuir copias de este programa bajo los términos de la Licencia P�
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>La ruta « {PATH} » del directorio en el que está instalada la aplicación que se va a capturar. Déjalo sin configurar para que se detecte automáticamente.</value>
+    <value>La ruta {PATH} del directorio en el que está instalada la aplicación que se va a capturar. Déjala sin configurar para que se detecte automáticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
