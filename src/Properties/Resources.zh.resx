@@ -59,11 +59,11 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DescriptionCapture" xml:space="preserve">
-    <value>捕获系统状态的快照，并将其进行比较以生成数据流。</value>
+    <value>捕获系统状态的快照，并对其进行比较以生成数据流。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>文件“{0} ”已存在。请使用 --force 参数进行覆盖。</value>
+    <value>文件“{0} ”已存在。请使用 --force 选项进行覆盖。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>要从安装目录生成的 ZIP 文件的{PATH} 。若未设置，则不生成 ZIP 存档。</value>
+    <value>要从安装目录生成的ZIP文件的{PATH} 。若未设置，则不生成ZIP存档。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">

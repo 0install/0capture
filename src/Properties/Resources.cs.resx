@@ -63,7 +63,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>Soubor „{0} “ již existuje. K přepsání použijte --force.</value>
+    <value>Soubor „{0} “ již existuje. K přepsání použijte volbu --force.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -88,11 +88,11 @@ Kopie tohoto programu můžete šířit v souladu s podmínkami licence GNU Less
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH}, v němž je nainstalována aplikace, kterou chcete zachytit. Pokud tuto proměnnou nenastavíte, dojde k automatické detekci.</value>
+    <value>{PATH} a adresáře, ve kterém je nainstalována aplikace, kterou chcete zachytit. Pokud tuto proměnnou nenastavíte, dojde k automatické detekci.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Relativní {PATH} a k hlavnímu souboru EXE aplikace, která má být zachycena. Pokud necháte toto pole prázdné, dojde k automatické detekci.</value>
+    <value>Relativní cesta {PATH} k hlavnímu souboru EXE aplikace, kterou chcete zachytit. Pokud tuto hodnotu nenastavíte, dojde k automatické detekci.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

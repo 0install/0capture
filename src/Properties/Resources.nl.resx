@@ -76,7 +76,7 @@ Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Le
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>De {PATH} van het ZIP-bestand dat vanuit de installatiemap moet worden aangemaakt. Laat deze optie oningevuld om geen ZIP-archief aan te maken.</value>
+    <value>De {PATH} van het ZIP-bestand dat vanuit de installatiemap moet worden aangemaakt. Laat deze instelling leeg om geen ZIP-archief aan te maken.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -92,7 +92,7 @@ Je mag kopieën van dit programma verspreiden onder de voorwaarden van de GNU Le
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Het relatieve pad {PATH} naar het hoofd-EXE-bestand van de toepassing die moet worden vastgelegd. Laat dit veld leeg om automatisch te detecteren.</value>
+    <value>Het relatieve pad {PATH} naar het hoofd-EXE-bestand van de toepassing die moet worden vastgelegd. Laat dit veld leeg om het automatisch te laten detecteren.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

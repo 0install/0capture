@@ -63,7 +63,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="FileAlreadyExists" xml:space="preserve">
-    <value>O ficheiro «{0} » já existe. Utilize --force para o substituir.</value>
+    <value>O ficheiro «{0} » já existe. Utilize --force para substituir.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
@@ -76,7 +76,7 @@ Pode redistribuir cópias deste programa ao abrigo dos termos da Licença Públi
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe sem valor para não criar nenhum arquivo ZIP.</value>
+    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe este parâmetro por definir para não criar nenhum arquivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@ Pode redistribuir cópias deste programa ao abrigo dos termos da Licença Públi
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>O caminho « {PATH} » do diretório onde a aplicação a ser capturada está instalada. Deixe sem valor para que seja detetado automaticamente.</value>
+    <value>{PATH} e do diretório em que a aplicação a ser capturada está instalada. Deixe sem valor para que seja detetado automaticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>O caminho relativo {PATH} para o ficheiro EXE principal da aplicação a capturar. Deixe em branco para que seja detetado automaticamente.</value>
+    <value>A {PATH} relativa ao ficheiro EXE principal da aplicação a capturar. Deixe em branco para que seja detetada automaticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
