@@ -76,7 +76,7 @@ Puedes redistribuir copias de este programa bajo los términos de la Licencia P�
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>La ruta {PATH} del archivo ZIP que se va a crear a partir del directorio de instalación. Déjalo sin definir para no crear ningún archivo ZIP.</value>
+    <value>El {PATH} del archivo ZIP que se va a crear a partir del directorio de instalación. Déjalo sin definir para no crear ningún archivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">

@@ -68,7 +68,7 @@
   </data>
   <data name="LicenseInfo" xml:space="preserve">
     <value>本プログラムは、法律で認められる範囲において、一切の保証を伴いません。
-本プログラムの複製物は、GNU Lesser General Public Licenseの条件に従って再配布することができます。</value>
+本プログラムの複製物は、GNU Lesser General Public License の条件に従って再配布することができます。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>インストールディレクトリから作成するZIPファイルの{PATH} 。ZIPアーカイブを作成しない場合は、未設定のままにします。</value>
+    <value>インストールディレクトリから作成するZIPファイルの{PATH} 。ZIPアーカイブを作成しない場合は、未設定のままにしてください。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
