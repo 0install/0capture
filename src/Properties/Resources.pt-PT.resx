@@ -76,7 +76,7 @@ Pode redistribuir cópias deste programa ao abrigo dos termos da Licença Públi
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe este parâmetro por definir para não criar nenhum arquivo ZIP.</value>
+    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe por definir para não criar nenhum arquivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,7 +88,7 @@ Pode redistribuir cópias deste programa ao abrigo dos termos da Licença Públi
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} e do diretório em que a aplicação a ser capturada está instalada. Deixe sem valor para que seja detetado automaticamente.</value>
+    <value>O caminho « {PATH} » do diretório onde a aplicação a ser capturada está instalada. Deixe sem definição para que seja detetado automaticamente.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
