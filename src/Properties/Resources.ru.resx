@@ -76,7 +76,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH}, из которого будет создан ZIP-файл, в каталоге установки. Оставьте значение не заданным, чтобы не создавать ZIP-архив.</value>
+    <value>{PATH}, из которого будет создан ZIP-файл, указывается в каталоге установки. Если этот параметр не задан, ZIP-архив не создается.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Относительный путь {PATH} к основному EXE-файлу приложения, которое необходимо перехватить. Оставьте поле незаполненным для автоматического определения.</value>
+    <value>Относительный путь {PATH} к главному EXE-файлу приложения, которое необходимо перехватить. Оставьте поле незаполненным для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

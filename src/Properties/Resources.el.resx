@@ -76,7 +76,7 @@
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>Η διαδρομή {PATH} του αρχείου ZIP που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το πεδίο κενό για να μην δημιουργηθεί αρχείο ZIP.</value>
+    <value>Η διαδρομή του αρχείου ZIP ( {PATH} ) που θα δημιουργηθεί από τον κατάλογο εγκατάστασης. Αφήστε το πεδίο κενό για να μην δημιουργηθεί αρχείο ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>Η σχετική διαδρομή {PATH} προς το κύριο αρχείο EXE της εφαρμογής που θα καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
+    <value>Η σχετική διαδρομή {PATH} ως προς το κύριο αρχείο EXE της εφαρμογής που πρόκειται να καταγραφεί. Αφήστε το πεδίο κενό για αυτόματη ανίχνευση.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">

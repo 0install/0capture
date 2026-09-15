@@ -72,11 +72,11 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
-    <value>Argomenti mancanti. Prova {0}</value>
+    <value>Argomenti mancanti. Prova a {0}</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>{PATH} e del file ZIP da creare dalla directory di installazione. Lasciare il valore non impostato per non creare alcun archivio ZIP.</value>
+    <value>{PATH} e del file ZIP da creare dalla directory di installazione. Lasciare vuoto per non creare alcun archivio ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">
@@ -88,11 +88,11 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH} e della directory in cui è installata l'applicazione da acquisire. Lasciare il valore non impostato per il rilevamento automatico.</value>
+    <value>{PATH} e della directory in cui è installata l'applicazione da acquisire. Lasciare non impostato per il rilevamento automatico.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>{PATH} e relativo all'EXE principale dell'applicazione da acquisire. Lasciare vuoto per il rilevamento automatico.</value>
+    <value>Il percorso relativo {PATH} rispetto all'EXE principale dell'applicazione da acquisire. Lasciare vuoto per il rilevamento automatico.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
