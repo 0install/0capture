@@ -92,7 +92,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
-    <value>キャプチャ対象のアプリケーションのメインEXEに対する相対パス{PATH} 。自動検出する場合は未設定のままにしてください。</value>
+    <value>キャプチャ対象のアプリケーションのメインEXEに対する{PATH} の相対パス。自動検出する場合は未設定のままにしてください。</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="Options" xml:space="preserve">
