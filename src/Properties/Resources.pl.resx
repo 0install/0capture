@@ -67,9 +67,9 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="LicenseInfo" xml:space="preserve">
-    <value>Program ten jest dostarczany BEZ ŻADNEJ GWARANCJI, w zakresie dozwolonym przez prawo.
-Można rozpowszechniać kopie tego programu na warunkach określonyc w licencji GNU Lesser General Public License.</value>
-    <comment>Automatically translated.</comment>
+    <value>Niniejszy program jest dostarczany BEZ ŻADNEJ GWARANCJI, w zakresie dozwolonym przez prawo.
+Możesz rozpowszechniać kopie tego programu na warunkach określonych w licencji GNU Lesser General Public License.</value>
+    <comment>Manually overriden.</comment>
   </data>
   <data name="MissingArguments" xml:space="preserve">
     <value>Brak argumentów. Spróbuj {0}</value>
