@@ -76,7 +76,7 @@ Pode redistribuir cópias deste programa ao abrigo dos termos da Licença Públi
     <comment>Manually overriden.</comment>
   </data>
   <data name="OptionCollectFiles" xml:space="preserve">
-    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe sem valor para não criar nenhum arquivo ZIP.</value>
+    <value>O {PATH} e do ficheiro ZIP a criar a partir do diretório de instalação. Deixe por definir para não criar nenhum arquivo ZIP.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionForce" xml:space="preserve">

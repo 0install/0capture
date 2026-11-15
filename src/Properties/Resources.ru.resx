@@ -88,7 +88,7 @@
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionInstallationDirectory" xml:space="preserve">
-    <value>{PATH}, в котором находится приложение, которое необходимо захватить. Оставьте не заданным для автоматического определения.</value>
+    <value>{PATH}, в котором установлено приложение, которое необходимо захватить. Оставьте значение не заданным для автоматического определения.</value>
     <comment>Automatically translated.</comment>
   </data>
   <data name="OptionMainExe" xml:space="preserve">
