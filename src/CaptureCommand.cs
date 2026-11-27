@@ -131,7 +131,7 @@ internal class CaptureCommand
 
         feedBuilder.MainCandidate = string.IsNullOrEmpty(_mainExe)
             ? feedBuilder.Candidates.FirstOrDefault()
-            : feedBuilder.Candidates.FirstOrDefault(x => StringUtils.EqualsIgnoreCase(x.RelativePath.ToNativePath(), _mainExe));
+            : feedBuilder.Candidates.FirstOrDefault(x => StringUtils.EqualsIgnoreCase(Paths.ToNative(x.RelativePath), _mainExe));
         session.Finish();
 
         if (!string.IsNullOrEmpty(_zipFile))
